@@ -10,3 +10,4 @@ mshadow-2.0: in progress
 * Support multiple data type
 * Great refactoring of code
 * Parameter server interface for MultiGPU and distributed learning
+* Fork winrt
